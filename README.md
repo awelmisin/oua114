@@ -10,19 +10,19 @@ Takım X
 - 
 - 
 
-## Ürün İsmi
+## Oyun İsmi
 
---Ürün X--
+--Oyun X--
 
 ## Product Backlog URL
 
 
 
-## Ürün Açıklaması
+## Oyun Açıklaması
 
 
 
-## Ürün Özellikleri
+## Oyun Özellikleri
 
 
 
