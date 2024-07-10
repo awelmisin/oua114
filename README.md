@@ -5,8 +5,8 @@ Takım X
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
-- Savaş Arabacı: Scrum Master /  Developer
-- 
+- Savaş Arabacı: Scrum Master /  Developer / Product Owner
+- Sena Ercan: Developer
 - 
 - 
 
@@ -28,3 +28,12 @@ Takım X
 
 ## Hedef Kitle
 
+
+
+## Sprint 1
+
+## Sprint 2
+
+## Sprint 3
+
+## Sprint 4
